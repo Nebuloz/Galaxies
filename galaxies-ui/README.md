@@ -1,21 +1,16 @@
-# next-template
+# shadcn/ui
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. **Use this to build your own component library**.
 
-## Usage
+![hero](apps/www/public/og.jpg)
 
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
+## Documentation
 
-## Features
+Visit http://ui.shadcn.com/docs to view the documentation.
 
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
+## Contributing
+
+Please read the [contributing guide](/CONTRIBUTING.md).
 
 ## License
 
